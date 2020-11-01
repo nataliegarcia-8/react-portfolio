@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/employee-directory/static/css/main.a72ab82c.chunk.css",
+    "main.js": "/employee-directory/static/js/main.4ea275bd.chunk.js",
+    "main.js.map": "/employee-directory/static/js/main.4ea275bd.chunk.js.map",
+    "runtime-main.js": "/employee-directory/static/js/runtime-main.e87a3810.js",
+    "runtime-main.js.map": "/employee-directory/static/js/runtime-main.e87a3810.js.map",
+    "static/js/2.d22ea688.chunk.js": "/employee-directory/static/js/2.d22ea688.chunk.js",
+    "static/js/2.d22ea688.chunk.js.map": "/employee-directory/static/js/2.d22ea688.chunk.js.map",
+    "index.html": "/employee-directory/index.html",
+    "static/css/main.a72ab82c.chunk.css.map": "/employee-directory/static/css/main.a72ab82c.chunk.css.map",
+    "static/js/2.d22ea688.chunk.js.LICENSE.txt": "/employee-directory/static/js/2.d22ea688.chunk.js.LICENSE.txt",
+    "static/media/pexels-john-petalcurin-2115257.cb9856b5.jpg": "/employee-directory/static/media/pexels-john-petalcurin-2115257.cb9856b5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e87a3810.js",
+    "static/js/2.d22ea688.chunk.js",
+    "static/css/main.a72ab82c.chunk.css",
+    "static/js/main.4ea275bd.chunk.js"
+  ]
+}

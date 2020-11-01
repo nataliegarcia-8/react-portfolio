@@ -12,4 +12,4 @@ https://nataliegarcia-8.github.io/react-portfolio/
 
 ### Screenshots
 
-![mainpage](images/mysite.png)
+![mainpage](public/images/mysite.png)

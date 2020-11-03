@@ -10,7 +10,7 @@
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0"
   },
-  "homepage": "https://nataliegarcia-8.github.io/employee-directory/",
+  "homepage": "https://nataliegarcia-8.github.io/react-portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
